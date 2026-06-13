@@ -10,4 +10,4 @@ This project features an astable multivibrator circuit designed to generate squa
 * **Analysis Type:** `TRAN` (Transient Analysis)
 * **EDA Software:** KiCad
 * **Status:** Fully functional simulation demonstrating expected transient behaviors and state switching under ideal initial conditions.
-* **Used:** QN2219 instead of QN2222
+* **Used:** 2N2219 instead of 2N2222
